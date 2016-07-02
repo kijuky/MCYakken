@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import kijuky.fmfactory.memorizingcards.utils.AbstractActivity;
+import kijuky.fmfactory.memorizingcards.common.activity.AbstractActivity;
 
 public class MainActivity extends AbstractActivity {
     @Override

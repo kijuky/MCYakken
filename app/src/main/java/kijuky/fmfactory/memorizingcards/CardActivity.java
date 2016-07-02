@@ -10,8 +10,8 @@ import android.widget.RadioButton;
 import android.widget.ScrollView;
 import android.widget.TextView;
 
-import kijuky.fmfactory.memorizingcards.utils.AbstractActivity;
-import kijuky.fmfactory.memorizingcards.utils.DatabaseHandler;
+import kijuky.fmfactory.memorizingcards.common.activity.AbstractActivity;
+import kijuky.fmfactory.memorizingcards.common.database.DatabaseHandler;
 
 public class CardActivity extends AbstractActivity {
     static final String EXTRA_QUESTION_ID = "QUESTION";

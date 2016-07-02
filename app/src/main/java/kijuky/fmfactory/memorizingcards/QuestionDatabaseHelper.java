@@ -4,8 +4,8 @@ import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.support.annotation.NonNull;
 
-import kijuky.fmfactory.memorizingcards.utils.DatabaseAssetsHelper;
-import kijuky.fmfactory.memorizingcards.utils.DatabaseHandler;
+import kijuky.fmfactory.memorizingcards.common.database.DatabaseAssetsHelper;
+import kijuky.fmfactory.memorizingcards.common.database.DatabaseHandler;
 
 public class QuestionDatabaseHelper extends DatabaseAssetsHelper {
     private static final String DB_FILE_NAME = "question.db";
