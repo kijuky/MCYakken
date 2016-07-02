@@ -1,0 +1,3 @@
+[submodule "mc-common"]
+	path = mc-common
+	url = https://github.com/kijuky/mc-common.git
